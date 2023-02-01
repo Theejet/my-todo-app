@@ -1,0 +1,4 @@
+Learn Python
+Learn C#
+Learn React
+Take Harvard's CS50 course
